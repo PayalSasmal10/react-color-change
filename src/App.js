@@ -44,8 +44,7 @@ function App() {
         </button>
         <button
           onClick={() => colorHandleChange("yellow")}
-          className="color yellow"
-        >
+          className="color yellow">
           Yellow
         </button>
       </div>
